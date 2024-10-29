@@ -10,7 +10,6 @@ Welcome to the *Netflix Clone* project! 🎉 A website designed to emulate the N
 ## 📌 Features
 - *Browse Movies by Category* 🎭.
 - *Login and Registration* 🔐 using Firebase.
-- *Search for Movies and Series* 🔍.
 - *Netflix-like Interface* 🎨.
 - *Responsive Design* 📱: Optimized for all devices.
 
