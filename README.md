@@ -13,8 +13,6 @@ Welcome to the *Netflix Clone* project! 🎉 A website designed to emulate the N
 - *Netflix-like Interface* 🎨.
 - *Responsive Design* 📱: Optimized for all devices.
 
-## 🌐 Useful Links
-- [Firebase Documentation](https://firebase.google.com/docs)
-- [The Movie Database API](https://developers.themoviedb.org/3)
-- [Vite Documentation](https://vitejs.dev/)
 
+Demo
+You can view the live demo of the Ecommerce App here: https://mazenmo77amed.github.io/Netflix/
