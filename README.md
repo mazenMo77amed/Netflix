@@ -14,5 +14,5 @@ Welcome to the *Netflix Clone* project! 🎉 A website designed to emulate the N
 - *Responsive Design* 📱: Optimized for all devices.
 
 
-Demo
-You can view the live demo of the Ecommerce App here: https://mazenmo77amed.github.io/Netflix/
+## Demo
+- *You can view the live demo of the Ecommerce App here: https://mazenmo77amed.github.io/Netflix/
